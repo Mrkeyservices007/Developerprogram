@@ -87,4 +87,4 @@ Murakkab muammolarni sodda, intuitiv va go‘zal dizaynlarga aylantirishga e’t
 
 1. Klonlang:
 ```bash
-git clone https://github.com/username/portfolio.git
+https://github.com/Mrkeyservices007/Developerprogram
